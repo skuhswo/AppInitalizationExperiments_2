@@ -1,0 +1,2 @@
+rootProject.name = "AppInitalizationExperiments"
+include ':app'
